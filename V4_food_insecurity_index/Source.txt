@@ -1,5 +1,0 @@
-
-Public Source:
-analytic_data is a public dataset available in the County Health Rankings from 2019, it can be found at: 
-
-https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/national-data-documentation-2010-2019'''
