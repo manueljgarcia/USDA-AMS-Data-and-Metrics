@@ -1,0 +1,534 @@
+﻿State FIPS Code,statecode
+County FIPS Code,countycode
+5-digit FIPS Code,fipscode
+State Abbreviation,state
+Name,county
+Release Year,year
+County Ranked (Yes=1/No=0),county_ranked
+Premature death raw value,v001_rawvalue
+Premature death numerator,v001_numerator
+Premature death denominator,v001_denominator
+Premature death CI low,v001_cilow
+Premature death CI high,v001_cihigh
+Premature death (Black),v001_race_black
+Premature death (Hispanic),v001_race_hispanic
+Premature death (White),v001_race_white
+Poor or fair health raw value,v002_rawvalue
+Poor or fair health numerator,v002_numerator
+Poor or fair health denominator,v002_denominator
+Poor or fair health CI low,v002_cilow
+Poor or fair health CI high,v002_cihigh
+Poor physical health days raw value,v036_rawvalue
+Poor physical health days numerator,v036_numerator
+Poor physical health days denominator,v036_denominator
+Poor physical health days CI low,v036_cilow
+Poor physical health days CI high,v036_cihigh
+Poor mental health days raw value,v042_rawvalue
+Poor mental health days numerator,v042_numerator
+Poor mental health days denominator,v042_denominator
+Poor mental health days CI low,v042_cilow
+Poor mental health days CI high,v042_cihigh
+Low birthweight raw value,v037_rawvalue
+Low birthweight numerator,v037_numerator
+Low birthweight denominator,v037_denominator
+Low birthweight CI low,v037_cilow
+Low birthweight CI high,v037_cihigh
+Low birthweight (Black),v037_race_black
+Low birthweight (Hispanic),v037_race_hispanic
+Low birthweight (White),v037_race_white
+Adult smoking raw value,v009_rawvalue
+Adult smoking numerator,v009_numerator
+Adult smoking denominator,v009_denominator
+Adult smoking CI low,v009_cilow
+Adult smoking CI high,v009_cihigh
+Adult obesity raw value,v011_rawvalue
+Adult obesity numerator,v011_numerator
+Adult obesity denominator,v011_denominator
+Adult obesity CI low,v011_cilow
+Adult obesity CI high,v011_cihigh
+Food environment index raw value,v133_rawvalue
+Food environment index numerator,v133_numerator
+Food environment index denominator,v133_denominator
+Food environment index CI low,v133_cilow
+Food environment index CI high,v133_cihigh
+Physical inactivity raw value,v070_rawvalue
+Physical inactivity numerator,v070_numerator
+Physical inactivity denominator,v070_denominator
+Physical inactivity CI low,v070_cilow
+Physical inactivity CI high,v070_cihigh
+Access to exercise opportunities raw value,v132_rawvalue
+Access to exercise opportunities numerator,v132_numerator
+Access to exercise opportunities denominator,v132_denominator
+Access to exercise opportunities CI low,v132_cilow
+Access to exercise opportunities CI high,v132_cihigh
+Excessive drinking raw value,v049_rawvalue
+Excessive drinking numerator,v049_numerator
+Excessive drinking denominator,v049_denominator
+Excessive drinking CI low,v049_cilow
+Excessive drinking CI high,v049_cihigh
+Alcohol-impaired driving deaths raw value,v134_rawvalue
+Alcohol-impaired driving deaths numerator,v134_numerator
+Alcohol-impaired driving deaths denominator,v134_denominator
+Alcohol-impaired driving deaths CI low,v134_cilow
+Alcohol-impaired driving deaths CI high,v134_cihigh
+Sexually transmitted infections raw value,v045_rawvalue
+Sexually transmitted infections numerator,v045_numerator
+Sexually transmitted infections denominator,v045_denominator
+Sexually transmitted infections CI low,v045_cilow
+Sexually transmitted infections CI high,v045_cihigh
+Teen births raw value,v014_rawvalue
+Teen births numerator,v014_numerator
+Teen births denominator,v014_denominator
+Teen births CI low,v014_cilow
+Teen births CI high,v014_cihigh
+Teen births (Black),v014_race_black
+Teen births (Hispanic),v014_race_hispanic
+Teen births (White),v014_race_white
+Uninsured raw value,v085_rawvalue
+Uninsured numerator,v085_numerator
+Uninsured denominator,v085_denominator
+Uninsured CI low,v085_cilow
+Uninsured CI high,v085_cihigh
+Primary care physicians raw value,v004_rawvalue
+Primary care physicians numerator,v004_numerator
+Primary care physicians denominator,v004_denominator
+Primary care physicians CI low,v004_cilow
+Primary care physicians CI high,v004_cihigh
+Ratio of population to primary care physicians.,v004_other_data_1
+Dentists raw value,v088_rawvalue
+Dentists numerator,v088_numerator
+Dentists denominator,v088_denominator
+Dentists CI low,v088_cilow
+Dentists CI high,v088_cihigh
+Ratio of population to dentists.,v088_other_data_1
+Mental health providers raw value,v062_rawvalue
+Mental health providers numerator,v062_numerator
+Mental health providers denominator,v062_denominator
+Mental health providers CI low,v062_cilow
+Mental health providers CI high,v062_cihigh
+Ratio of population to mental health providers.,v062_other_data_1
+Preventable hospital stays raw value,v005_rawvalue
+Preventable hospital stays numerator,v005_numerator
+Preventable hospital stays denominator,v005_denominator
+Preventable hospital stays CI low,v005_cilow
+Preventable hospital stays CI high,v005_cihigh
+Preventable hospital stays (Black),v005_race_black
+Preventable hospital stays (Hispanic),v005_race_hispanic
+Preventable hospital stays (White),v005_race_white
+Mammography screening raw value,v050_rawvalue
+Mammography screening numerator,v050_numerator
+Mammography screening denominator,v050_denominator
+Mammography screening CI low,v050_cilow
+Mammography screening CI high,v050_cihigh
+Mammography screening (Black),v050_race_black
+Mammography screening (Hispanic),v050_race_hispanic
+Mammography screening (White),v050_race_white
+Flu vaccinations raw value,v155_rawvalue
+Flu vaccinations numerator,v155_numerator
+Flu vaccinations denominator,v155_denominator
+Flu vaccinations CI low,v155_cilow
+Flu vaccinations CI high,v155_cihigh
+Flu vaccinations (Black),v155_race_black
+Flu vaccinations (Hispanic),v155_race_hispanic
+Flu vaccinations (White),v155_race_white
+High school graduation raw value,v021_rawvalue
+High school graduation numerator,v021_numerator
+High school graduation denominator,v021_denominator
+High school graduation CI low,v021_cilow
+High school graduation CI high,v021_cihigh
+Some college raw value,v069_rawvalue
+Some college numerator,v069_numerator
+Some college denominator,v069_denominator
+Some college CI low,v069_cilow
+Some college CI high,v069_cihigh
+Unemployment raw value,v023_rawvalue
+Unemployment numerator,v023_numerator
+Unemployment denominator,v023_denominator
+Unemployment CI low,v023_cilow
+Unemployment CI high,v023_cihigh
+Children in poverty raw value,v024_rawvalue
+Children in poverty numerator,v024_numerator
+Children in poverty denominator,v024_denominator
+Children in poverty CI low,v024_cilow
+Children in poverty CI high,v024_cihigh
+Children in poverty (Black),v024_race_black
+Children in poverty (Hispanic),v024_race_hispanic
+Children in poverty (White),v024_race_white
+Income inequality raw value,v044_rawvalue
+Income inequality numerator,v044_numerator
+Income inequality denominator,v044_denominator
+Income inequality CI low,v044_cilow
+Income inequality CI high,v044_cihigh
+Children in single-parent households raw value,v082_rawvalue
+Children in single-parent households numerator,v082_numerator
+Children in single-parent households denominator,v082_denominator
+Children in single-parent households CI low,v082_cilow
+Children in single-parent households CI high,v082_cihigh
+Social associations raw value,v140_rawvalue
+Social associations numerator,v140_numerator
+Social associations denominator,v140_denominator
+Social associations CI low,v140_cilow
+Social associations CI high,v140_cihigh
+Violent crime raw value,v043_rawvalue
+Violent crime numerator,v043_numerator
+Violent crime denominator,v043_denominator
+Violent crime CI low,v043_cilow
+Violent crime CI high,v043_cihigh
+Injury deaths raw value,v135_rawvalue
+Injury deaths numerator,v135_numerator
+Injury deaths denominator,v135_denominator
+Injury deaths CI low,v135_cilow
+Injury deaths CI high,v135_cihigh
+Air pollution - particulate matter raw value,v125_rawvalue
+Air pollution - particulate matter numerator,v125_numerator
+Air pollution - particulate matter denominator,v125_denominator
+Air pollution - particulate matter CI low,v125_cilow
+Air pollution - particulate matter CI high,v125_cihigh
+Drinking water violations raw value,v124_rawvalue
+Drinking water violations numerator,v124_numerator
+Drinking water violations denominator,v124_denominator
+Drinking water violations CI low,v124_cilow
+Drinking water violations CI high,v124_cihigh
+Severe housing problems raw value,v136_rawvalue
+Severe housing problems numerator,v136_numerator
+Severe housing problems denominator,v136_denominator
+Severe housing problems CI low,v136_cilow
+Severe housing problems CI high,v136_cihigh
+Percentage of households with high housing costs,v136_other_data_1
+Percentage of households with overcrowding,v136_other_data_2
+Percentage of households with lack of kitchen or plumbing facilities,v136_other_data_3
+Driving alone to work raw value,v067_rawvalue
+Driving alone to work numerator,v067_numerator
+Driving alone to work denominator,v067_denominator
+Driving alone to work CI low,v067_cilow
+Driving alone to work CI high,v067_cihigh
+Driving alone to work (Black),v067_race_black
+Driving alone to work (Hispanic),v067_race_hispanic
+Driving alone to work (White),v067_race_white
+Long commute - driving alone raw value,v137_rawvalue
+Long commute - driving alone numerator,v137_numerator
+Long commute - driving alone denominator,v137_denominator
+Long commute - driving alone CI low,v137_cilow
+Long commute - driving alone CI high,v137_cihigh
+Life expectancy raw value,v147_rawvalue
+Life expectancy numerator,v147_numerator
+Life expectancy denominator,v147_denominator
+Life expectancy CI low,v147_cilow
+Life expectancy CI high,v147_cihigh
+Life expectancy (Black),v147_race_black
+Life expectancy (Hispanic),v147_race_hispanic
+Life expectancy (White),v147_race_white
+Premature age-adjusted mortality raw value,v127_rawvalue
+Premature age-adjusted mortality numerator,v127_numerator
+Premature age-adjusted mortality denominator,v127_denominator
+Premature age-adjusted mortality CI low,v127_cilow
+Premature age-adjusted mortality CI high,v127_cihigh
+Premature age-adjusted mortality (Black),v127_race_black
+Premature age-adjusted mortality (Hispanic),v127_race_hispanic
+Premature age-adjusted mortality (White),v127_race_white
+Child mortality raw value,v128_rawvalue
+Child mortality numerator,v128_numerator
+Child mortality denominator,v128_denominator
+Child mortality CI low,v128_cilow
+Child mortality CI high,v128_cihigh
+Child mortality (Black),v128_race_black
+Child mortality (Hispanic),v128_race_hispanic
+Child mortality (White),v128_race_white
+Infant mortality raw value,v129_rawvalue
+Infant mortality numerator,v129_numerator
+Infant mortality denominator,v129_denominator
+Infant mortality CI low,v129_cilow
+Infant mortality CI high,v129_cihigh
+Infant mortality (Black),v129_race_black
+Infant mortality (Hispanic),v129_race_hispanic
+Infant mortality (White),v129_race_white
+Frequent physical distress raw value,v144_rawvalue
+Frequent physical distress numerator,v144_numerator
+Frequent physical distress denominator,v144_denominator
+Frequent physical distress CI low,v144_cilow
+Frequent physical distress CI high,v144_cihigh
+Frequent mental distress raw value,v145_rawvalue
+Frequent mental distress numerator,v145_numerator
+Frequent mental distress denominator,v145_denominator
+Frequent mental distress CI low,v145_cilow
+Frequent mental distress CI high,v145_cihigh
+Diabetes prevalence raw value,v060_rawvalue
+Diabetes prevalence numerator,v060_numerator
+Diabetes prevalence denominator,v060_denominator
+Diabetes prevalence CI low,v060_cilow
+Diabetes prevalence CI high,v060_cihigh
+HIV prevalence raw value,v061_rawvalue
+HIV prevalence numerator,v061_numerator
+HIV prevalence denominator,v061_denominator
+HIV prevalence CI low,v061_cilow
+HIV prevalence CI high,v061_cihigh
+Food insecurity raw value,v139_rawvalue
+Food insecurity numerator,v139_numerator
+Food insecurity denominator,v139_denominator
+Food insecurity CI low,v139_cilow
+Food insecurity CI high,v139_cihigh
+Limited access to healthy foods raw value,v083_rawvalue
+Limited access to healthy foods numerator,v083_numerator
+Limited access to healthy foods denominator,v083_denominator
+Limited access to healthy foods CI low,v083_cilow
+Limited access to healthy foods CI high,v083_cihigh
+Drug overdose deaths raw value,v138_rawvalue
+Drug overdose deaths numerator,v138_numerator
+Drug overdose deaths denominator,v138_denominator
+Drug overdose deaths CI low,v138_cilow
+Drug overdose deaths CI high,v138_cihigh
+Motor vehicle crash deaths raw value,v039_rawvalue
+Motor vehicle crash deaths numerator,v039_numerator
+Motor vehicle crash deaths denominator,v039_denominator
+Motor vehicle crash deaths CI low,v039_cilow
+Motor vehicle crash deaths CI high,v039_cihigh
+Insufficient sleep raw value,v143_rawvalue
+Insufficient sleep numerator,v143_numerator
+Insufficient sleep denominator,v143_denominator
+Insufficient sleep CI low,v143_cilow
+Insufficient sleep CI high,v143_cihigh
+Uninsured adults raw value,v003_rawvalue
+Uninsured adults numerator,v003_numerator
+Uninsured adults denominator,v003_denominator
+Uninsured adults CI low,v003_cilow
+Uninsured adults CI high,v003_cihigh
+Uninsured children raw value,v122_rawvalue
+Uninsured children numerator,v122_numerator
+Uninsured children denominator,v122_denominator
+Uninsured children CI low,v122_cilow
+Uninsured children CI high,v122_cihigh
+Other primary care providers raw value,v131_rawvalue
+Other primary care providers numerator,v131_numerator
+Other primary care providers denominator,v131_denominator
+Other primary care providers CI low,v131_cilow
+Other primary care providers CI high,v131_cihigh
+Ratio of population to primary care providers other than physicians.,v131_other_data_1
+Disconnected youth raw value,v149_rawvalue
+Disconnected youth numerator,v149_numerator
+Disconnected youth denominator,v149_denominator
+Disconnected youth CI low,v149_cilow
+Disconnected youth CI high,v149_cihigh
+Median household income raw value,v063_rawvalue
+Median household income numerator,v063_numerator
+Median household income denominator,v063_denominator
+Median household income CI low,v063_cilow
+Median household income CI high,v063_cihigh
+Median household income (Black),v063_race_black
+Median household income (Hispanic),v063_race_hispanic
+Median household income (White),v063_race_white
+Children eligible for free or reduced price lunch raw value,v065_rawvalue
+Children eligible for free or reduced price lunch numerator,v065_numerator
+Children eligible for free or reduced price lunch denominator,v065_denominator
+Children eligible for free or reduced price lunch CI low,v065_cilow
+Children eligible for free or reduced price lunch CI high,v065_cihigh
+Residential segregation - Black/White raw value,v141_rawvalue
+Residential segregation - Black/White numerator,v141_numerator
+Residential segregation - Black/White denominator,v141_denominator
+Residential segregation - Black/White CI low,v141_cilow
+Residential segregation - Black/White CI high,v141_cihigh
+Residential segregation - non-white/white raw value,v142_rawvalue
+Residential segregation - non-white/white numerator,v142_numerator
+Residential segregation - non-white/white denominator,v142_denominator
+Residential segregation - non-white/white CI low,v142_cilow
+Residential segregation - non-white/white CI high,v142_cihigh
+Homicides raw value,v015_rawvalue
+Homicides numerator,v015_numerator
+Homicides denominator,v015_denominator
+Homicides CI low,v015_cilow
+Homicides CI high,v015_cihigh
+Firearm fatalities raw value,v148_rawvalue
+Firearm fatalities numerator,v148_numerator
+Firearm fatalities denominator,v148_denominator
+Firearm fatalities CI low,v148_cilow
+Firearm fatalities CI high,v148_cihigh
+Homeownership raw value,v153_rawvalue
+Homeownership numerator,v153_numerator
+Homeownership denominator,v153_denominator
+Homeownership CI low,v153_cilow
+Homeownership CI high,v153_cihigh
+Severe housing cost burden raw value,v154_rawvalue
+Severe housing cost burden numerator,v154_numerator
+Severe housing cost burden denominator,v154_denominator
+Severe housing cost burden CI low,v154_cilow
+Severe housing cost burden CI high,v154_cihigh
+Population raw value,v051_rawvalue
+Population numerator,v051_numerator
+Population denominator,v051_denominator
+Population CI low,v051_cilow
+Population CI high,v051_cihigh
+% below 18 years of age raw value,v052_rawvalue
+% below 18 years of age numerator,v052_numerator
+% below 18 years of age denominator,v052_denominator
+% below 18 years of age CI low,v052_cilow
+% below 18 years of age CI high,v052_cihigh
+% 65 and older raw value,v053_rawvalue
+% 65 and older numerator,v053_numerator
+% 65 and older denominator,v053_denominator
+% 65 and older CI low,v053_cilow
+% 65 and older CI high,v053_cihigh
+% Non-Hispanic African American raw value,v054_rawvalue
+% Non-Hispanic African American numerator,v054_numerator
+% Non-Hispanic African American denominator,v054_denominator
+% Non-Hispanic African American CI low,v054_cilow
+% Non-Hispanic African American CI high,v054_cihigh
+% American Indian and Alaskan Native raw value,v055_rawvalue
+% American Indian and Alaskan Native numerator,v055_numerator
+% American Indian and Alaskan Native denominator,v055_denominator
+% American Indian and Alaskan Native CI low,v055_cilow
+% American Indian and Alaskan Native CI high,v055_cihigh
+% Asian raw value,v081_rawvalue
+% Asian numerator,v081_numerator
+% Asian denominator,v081_denominator
+% Asian CI low,v081_cilow
+% Asian CI high,v081_cihigh
+% Native Hawaiian/Other Pacific Islander raw value,v080_rawvalue
+% Native Hawaiian/Other Pacific Islander numerator,v080_numerator
+% Native Hawaiian/Other Pacific Islander denominator,v080_denominator
+% Native Hawaiian/Other Pacific Islander CI low,v080_cilow
+% Native Hawaiian/Other Pacific Islander CI high,v080_cihigh
+% Hispanic raw value,v056_rawvalue
+% Hispanic numerator,v056_numerator
+% Hispanic denominator,v056_denominator
+% Hispanic CI low,v056_cilow
+% Hispanic CI high,v056_cihigh
+% Non-Hispanic white raw value,v126_rawvalue
+% Non-Hispanic white numerator,v126_numerator
+% Non-Hispanic white denominator,v126_denominator
+% Non-Hispanic white CI low,v126_cilow
+% Non-Hispanic white CI high,v126_cihigh
+% not proficient in English raw value,v059_rawvalue
+% not proficient in English numerator,v059_numerator
+% not proficient in English denominator,v059_denominator
+% not proficient in English CI low,v059_cilow
+% not proficient in English CI high,v059_cihigh
+% Females raw value,v057_rawvalue
+% Females numerator,v057_numerator
+% Females denominator,v057_denominator
+% Females CI low,v057_cilow
+% Females CI high,v057_cihigh
+% Rural raw value,v058_rawvalue
+% Rural numerator,v058_numerator
+% Rural denominator,v058_denominator
+% Rural CI low,v058_cilow
+% Rural CI high,v058_cihigh
+Communicable disease raw value,v104_rawvalue
+Communicable disease numerator,v104_numerator
+Communicable disease denominator,v104_denominator
+Communicable disease CI low,v104_cilow
+Communicable disease CI high,v104_cihigh
+Self-inflicted injury hospitalizations raw value,v105_rawvalue
+Self-inflicted injury hospitalizations numerator,v105_numerator
+Self-inflicted injury hospitalizations denominator,v105_denominator
+Self-inflicted injury hospitalizations CI low,v105_cilow
+Self-inflicted injury hospitalizations CI high,v105_cihigh
+Cancer incidence raw value,v099_rawvalue
+Cancer incidence numerator,v099_numerator
+Cancer incidence denominator,v099_denominator
+Cancer incidence CI low,v099_cilow
+Cancer incidence CI high,v099_cihigh
+Coronary heart disease hospitalizations raw value,v100_rawvalue
+Coronary heart disease hospitalizations numerator,v100_numerator
+Coronary heart disease hospitalizations denominator,v100_denominator
+Coronary heart disease hospitalizations CI low,v100_cilow
+Coronary heart disease hospitalizations CI high,v100_cihigh
+Cerebrovascular disease hospitalizations raw value,v101_rawvalue
+Cerebrovascular disease hospitalizations numerator,v101_numerator
+Cerebrovascular disease hospitalizations denominator,v101_denominator
+Cerebrovascular disease hospitalizations CI low,v101_cilow
+Cerebrovascular disease hospitalizations CI high,v101_cihigh
+Smoking during pregnancy raw value,v010_rawvalue
+Smoking during pregnancy numerator,v010_numerator
+Smoking during pregnancy denominator,v010_denominator
+Smoking during pregnancy CI low,v010_cilow
+Smoking during pregnancy CI high,v010_cihigh
+Drug arrests raw value,v108_rawvalue
+Drug arrests numerator,v108_numerator
+Drug arrests denominator,v108_denominator
+Drug arrests CI low,v108_cilow
+Drug arrests CI high,v108_cihigh
+Opioid hospital visits raw value,v150_rawvalue
+Opioid hospital visits numerator,v150_numerator
+Opioid hospital visits denominator,v150_denominator
+Opioid hospital visits CI low,v150_cilow
+Opioid hospital visits CI high,v150_cihigh
+Alcohol-related hospitalizations raw value,v109_rawvalue
+Alcohol-related hospitalizations numerator,v109_numerator
+Alcohol-related hospitalizations denominator,v109_denominator
+Alcohol-related hospitalizations CI low,v109_cilow
+Alcohol-related hospitalizations CI high,v109_cihigh
+Motor vehicle crash occupancy rate raw value,v018_rawvalue
+Motor vehicle crash occupancy rate numerator,v018_numerator
+Motor vehicle crash occupancy rate denominator,v018_denominator
+Motor vehicle crash occupancy rate CI low,v018_cilow
+Motor vehicle crash occupancy rate CI high,v018_cihigh
+On-road motor vehicle crash-related ER visits raw value,v019_rawvalue
+On-road motor vehicle crash-related ER visits numerator,v019_numerator
+On-road motor vehicle crash-related ER visits denominator,v019_denominator
+On-road motor vehicle crash-related ER visits CI low,v019_cilow
+On-road motor vehicle crash-related ER visits CI high,v019_cihigh
+Off-road motor vehicle crash-related ER visits raw value,v020_rawvalue
+Off-road motor vehicle crash-related ER visits numerator,v020_numerator
+Off-road motor vehicle crash-related ER visits denominator,v020_denominator
+Off-road motor vehicle crash-related ER visits CI low,v020_cilow
+Off-road motor vehicle crash-related ER visits CI high,v020_cihigh
+Childhood immunizations raw value,v103_rawvalue
+Childhood immunizations numerator,v103_numerator
+Childhood immunizations denominator,v103_denominator
+Childhood immunizations CI low,v103_cilow
+Childhood immunizations CI high,v103_cihigh
+Reading proficiency raw value,v116_rawvalue
+Reading proficiency numerator,v116_numerator
+Reading proficiency denominator,v116_denominator
+Reading proficiency CI low,v116_cilow
+Reading proficiency CI high,v116_cihigh
+W-2 enrollment raw value,v117_rawvalue
+W-2 enrollment numerator,v117_numerator
+W-2 enrollment denominator,v117_denominator
+W-2 enrollment CI low,v117_cilow
+W-2 enrollment CI high,v117_cihigh
+Poverty raw value,v118_rawvalue
+Poverty numerator,v118_numerator
+Poverty denominator,v118_denominator
+Poverty CI low,v118_cilow
+Poverty CI high,v118_cihigh
+Older adults living alone raw value,v120_rawvalue
+Older adults living alone numerator,v120_numerator
+Older adults living alone denominator,v120_denominator
+Older adults living alone CI low,v120_cilow
+Older adults living alone CI high,v120_cihigh
+Hate crimes raw value,v121_rawvalue
+Hate crimes numerator,v121_numerator
+Hate crimes denominator,v121_denominator
+Hate crimes CI low,v121_cilow
+Hate crimes CI high,v121_cihigh
+Child abuse raw value,v119_rawvalue
+Child abuse numerator,v119_numerator
+Child abuse denominator,v119_denominator
+Child abuse CI low,v119_cilow
+Child abuse CI high,v119_cihigh
+Injury hospitalizations raw value,v106_rawvalue
+Injury hospitalizations numerator,v106_numerator
+Injury hospitalizations denominator,v106_denominator
+Injury hospitalizations CI low,v106_cilow
+Injury hospitalizations CI high,v106_cihigh
+Fall fatalities 65+ raw value,v107_rawvalue
+Fall fatalities 65+ numerator,v107_numerator
+Fall fatalities 65+ denominator,v107_denominator
+Fall fatalities 65+ CI low,v107_cilow
+Fall fatalities 65+ CI high,v107_cihigh
+Year structure built raw value,v123_rawvalue
+Year structure built numerator,v123_numerator
+Year structure built denominator,v123_denominator
+Year structure built CI low,v123_cilow
+Year structure built CI high,v123_cihigh
+Male population 0-17 raw value,v008_rawvalue
+Male population 18-44 raw value,v013_rawvalue
+Male population 45-64 raw value,v016_rawvalue
+Male population 65+ raw value,v017_rawvalue
+Total male population raw value,v025_rawvalue
+Female population 0-17 raw value,v026_rawvalue
+Female population 18-44 raw value,v027_rawvalue
+Female population 45-64 raw value,v031_rawvalue
+Female population 65+ raw value,v032_rawvalue
+Total female population raw value,v035_rawvalue
+Population growth raw value,v097_rawvalue
